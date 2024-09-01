@@ -1,0 +1,57 @@
+Q-1) Explain Bitwise AND, OR, and XOR operations with examples.
+
+Q-2)What is the result of the following bitwise operations?
+
+		int a = 12;
+		int b = 29;
+		int c = a & b;
+		int d = a | b;
+		int e = a ^ b;
+		
+Q-3)What does the following code do?
+
+		int num = 19;
+		num = num << 2;
+		
+Q-4)WAP to check if a number is odd or even using bitwise operators.
+
+Q-5)WAP to count the number of set bits (1s) in an integer.
+
+Q-6)WAP to swap two numbers using bitwise operators without using a temporary variable.(Hint: use XOR operator)
+
+Q-7)What is the difference between %c and %s format specifiers?
+
+Q-8)WAP to check wether a number is power of 2 or not?
+
+Q-9)WAP to print an ASCII value of any given character using printf.
+
+Q-10)WAP using the ternary operator to find the maximum of two numbers.
+
+Q-11)WAP to check if a number is even or odd using the ternary operator.
+
+Q-12)What is the output of the following code?
+
+		int x = 5, y = 10;
+		int z = (x > y) ? x : y;
+		printf("%d\n", z);
+		
+Q-13)WAP using the ternary operator to return the sign of a number?
+	(i.e., return 1 for positive number, -1 for negative, and 0 for zero)
+	
+Q-14)Given three integers, WAP to find the second largest number using the ternary operator.
+
+Q-15)What will be the output of the following code snippet?
+
+		int a = 5, b = 8, c = 10;
+		int max = (a > b) ? ((a > c) ? a : c) : ((b > c) ? b : c);
+		printf("%d\n", max);
+		
+Q-16)WAP using the ternary operator to implement the following logic:
+			If x is positive, set y = 1.
+			If x is zero, set y = 0.
+			If x is negative, set y = -1.
+			
+Q-17)What will be the result of the following expression?
+
+		int a = 10, b = 20, c = 30;
+		int result = (a > b) ? (a > c ? a : c) : (b > c ? b : c);

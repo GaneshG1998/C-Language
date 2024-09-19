@@ -1,0 +1,37 @@
+What is the difference between a function declaration and a function definition?
+What is recursion? Can you explain with an example?
+What are the risks associated with recursion?
+What is stack overflow in the context of recursion?
+What is a stack frame in C?
+What happens to the stack frame when a function is called?
+Explain what information is stored in a stack frame.
+What is the difference between the stack frame in recursion and iteration?
+What is the return type of a function that does not return a value?
+
+
+WAP to check wether a number is Armstrong Number.
+	Example: 153 is an Armstrong number.
+	1³ + 5³ + 3³ = 153
+	
+WAP to check wether a number is Palindrome Numbe.
+	Example: 121 is a palindrome.
+	(The number is same from front and back).
+	
+WAP to check wether a number is Prime Number.
+	A prime number is a number greater than 1 that is divisible only by 1 and itself.
+	
+WAP to generate Fibonacci Series for given number.
+	Example: 0, 1, 1, 2, 3, 5, 8,...
+	
+WAP to find Factorial of given number.
+
+WAP to check a number is Perfect Number.
+	A perfect number is a positive integer that is equal to the sum of its proper divisors, excluding the number itself.
+
+	Example: 6 is a perfect number since 1 + 2 + 3 = 6.
+	
+Write a program to reverse a number.
+	Example: 1234 reversed is 4321.
+	
+LeetCode question- 509, 9, 7, 231, 202, 258, 
+
